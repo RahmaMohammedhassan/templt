@@ -1,0 +1,70 @@
+.one{
+	background-image:url(../imges/header-bg.jpg);
+	width:100%;
+	height: 70%;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	align-items:center;
+	justify-content: center;
+	color: #fff;
+	
+}
+
+.two{
+	margin: 40px;
+	text-align:center;
+	
+}
+.common{
+	float: left;
+	width: 500px;
+	
+}
+.clr{
+	clear: both;
+}
+.common2{
+	width: 500px;
+	float: left;
+	padding:40px;
+}
+.common3{
+	width: 300px;
+	float: left;
+	width: 500px;
+	
+}
+button{
+	width: 200px;
+	padding: 15px;
+	font-weight: bolder;
+	background-color: yellow;
+	border-radius: 10%;
+	color: #fff;
+}
+.three{
+	margin: 70px;
+	text-align: center;
+}
+.four{
+	margin-right: auto;
+	text-align: center;
+	background-color:#FF8C00;
+	width: 100%;
+	height: 30%;
+	padding: 50px;
+}
+.dolor{
+	float: left;
+	width: 350px;
+}
+.five{
+	
+	width: 100%;
+	height:10%;
+	padding: 20px;
+	background-color: rgba(118, 122, 122, 0.192);
+	text-align: center;
+}
